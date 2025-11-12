@@ -5,7 +5,7 @@
 
 Building scalable, interactive, and high-performance web applications with modern technologies, clean architecture, and user-centric experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eti-ini-precious-76601a248/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/2348089408797)
 [![Email](https://img.shields.io/badge/Email-preciousgoodtime%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:preciousgoodtime@gamil.com)
 
@@ -97,7 +97,7 @@ I transform ideas into optimized digital products with strong focus on UI, perfo
 ## 📩 Let’s Work Together
 📧 Email: preciousgoodtime@gamil.com  
 💬 WhatsApp: +234 808 940 8797  
-💼 LinkedIn: Coming Soon  
-🌍 Portfolio: Coming Soon  
+💼 LinkedIn: https://www.linkedin.com/in/eti-ini-precious-76601a248/  
+🌍 Portfolio: https://eti-ini-portfolio.vercel.app/ 
 
 ⭐ *Open to full-stack, frontend, and Next.js roles & collaborations*
