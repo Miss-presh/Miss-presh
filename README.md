@@ -52,7 +52,6 @@ I transform ideas into optimized digital products with strong focus on UI, perfo
 ## 🌟 Featured Projects
 
 ### 🔵 1. Fintech Admin Dashboard  
-🔗 Live: https://admin.bravepayfinancialservices.com/  
 `Next.js` • `React Query` • `Tailwind` • API Integrations  
 - Admin control system with secure API consumption  
 - Role-based actions, status updates, and dashboard logic  
@@ -71,8 +70,6 @@ I transform ideas into optimized digital products with strong focus on UI, perfo
 ---
 
 ### 🟣 3. Fintech & Food-Tech Platforms  
-🔗 Fintech: https://bravepaymfb.com/  
-🔗 Food-Tech: https://potoffood.com/  
 `Next.js` • `API Driven Platforms` • Business UI  
 - Built functional, responsive, and data-driven interfaces  
 - Integrated backend services with optimized frontend delivery
